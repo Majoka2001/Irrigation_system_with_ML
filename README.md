@@ -18,7 +18,7 @@ The irrigation system uses data from soil moisture, rainfall, and humidity senso
      - Soil moisture levels
      - Rainfall
      - Humidity
-     - Valve states (Open/Close)
+     - Valve state (Open/Close)
 
 3. **`model_results.csv`**:
    - Contains the evaluation metrics of the trained ML models, including accuracy and other performance details.
